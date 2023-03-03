@@ -23,19 +23,19 @@ const ICONS = [
 
 const LIST_ITEMS = [
   {
-    name: "music",
-    link: "https://music.youtube.com"
+    name: "Google Drive",
+    link: "https://drive.google.com/drive/u/0/my-drive"
   },
   {
-    name: "netflix",
-    link: "https://www.netflix.com/"
+    name: "Google",
+    link: "https://www.google.com/"
   },
   {
-    name: "r/unixporn",
-    link: "https://www.reddit.com/r/unixporn/"
+    name: "Homebridge",
+    link: "http://10.0.0.131:8581/"
   },
   {
-    name: "r/firefoxcss",
-    link: "https://www.reddit.com/r/firefoxcss/"
+    name: "Amazon",
+    link: "https://www.amazon.com/"
   },
 ]
